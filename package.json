@@ -1,0 +1,16 @@
+{
+  "name": "custom-favicon",
+  "version": "1.0.0",
+  "description": "自定义浏览器标题样式",
+  "main": "main.js",
+  "scripts": {
+    "dev": "anywhere -p 4578",
+    "test": "echo \"Error: no test specified\" ; exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.caner.top/Caner/custom-favicon.git"
+  },
+  "author": "Caner",
+  "license": "ISC"
+}
